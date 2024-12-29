@@ -2,7 +2,9 @@
 
 [Twitter][https://x.com/BH3GEI_CN][🐦]
 
-[Steam][https://steamcommunity.com/profiles/76561198979567405/][⚔️]
+[Steam][https://steamcommunity.com/profiles/76561198979567405/][🎮]
+
+[Discord][https://discord.gg/DBFVSfnbvk][⚔️]
 
 [Bilibili][https://space.bilibili.com/352777871][📺]
 
