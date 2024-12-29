@@ -1,3 +1,5 @@
+[LinkedIn][https://www.linkedin.com/in/yao-li2026/] [💼]      
+
 [Telegram][https://t.me/yao_luv_cs] [🛩]      
 
 [Twitter][https://x.com/BH3GEI_CN][🐦]
