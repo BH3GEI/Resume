@@ -8,6 +8,12 @@
 
 [Twitter][https://x.com/BH3GEI_CN][🐦]
 
+[WeChat][https://raw.githubusercontent.com/BH3GEI/Resume/main/WechatQR.png][📱]
+
+[Skype][https://raw.githubusercontent.com/BH3GEI/Resume/main/SkypeQR.png][☎️]
+
+[WhatsApp][https://raw.githubusercontent.com/BH3GEI/Resume/main/WhatsAppQR.png][📞]
+
 [Steam][https://steamcommunity.com/profiles/76561198979567405/][🎮]
 
 [Discord][https://discord.gg/DBFVSfnbvk][⚔️]
