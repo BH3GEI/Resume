@@ -7,6 +7,8 @@
 
 # Development Tools
 
+[Cloudflare Worker Proxy](https://github.com/BH3GEI/CloudflareWorkerProxy) [icon](https://avatars.githubusercontent.com/u/314135)
+
 [Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://github.com/Python-Markdown.png)
 
 [Cloudflare Proxy](https://stratoproxy.stratosphericus.workers.dev/) [icon](https://avatars.githubusercontent.com/u/314135)
