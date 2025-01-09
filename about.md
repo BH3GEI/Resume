@@ -23,14 +23,13 @@
   
 ---
 
-## **Play**  
-- Long-Range Drones/Quadcopters  
-- Hardware/Communication  
-- Amateur Astronomy and Astrophotography
-  
----
-
 ## **Amateur Radio Operation License**  
 - **Callsign**: BH3GEI  
 - **Class B License**, China Radio Association  
 
+---
+
+## **Play**  
+- Long-Range Drones/Quadcopters  
+- Hardware/Communication  
+- Amateur Astronomy and Astrophotography
