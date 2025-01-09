@@ -1,7 +1,24 @@
+##### Technology Stack
+###### Programming Languages: Rust, Python, JavaScript, C/C++
+###### Research: WebAssembly, distributed systems, virtualization
 
-###### 🔍 Research: Virtualization, Dist. & Vol. Computing  
-###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys.  
-###### 📚 RA at CUHK: Blockchain, Smart Contracts | 💻 Indie Dev  
+##### Play: 
+###### CTF: USTC Hackergame (2023, 2024), JLU-CTF (2020)
+###### Leetcode Ranking: To Be Updated
+###### Hackathon (Merely On Wishlist) 
+
+##### Japanese Language Proficiency
+###### Preparing for JLPT N2
+
+##### English Language Proficiency
+###### College English Test - Band 4 (CET-4): 600
+###### College English Test - Band 6 (CET-6): 590
+###### Test of English for International Communication (TOEIC): 865
+
+##### Amateur Radio Operation License
+###### Callsign: BH3GEI
+###### Class B License, China Radio Association
+
 
 
 <!-- 
