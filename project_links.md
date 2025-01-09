@@ -5,14 +5,12 @@
 # Web Projects
 [**Yao's Homepage**](https://bh3gei.github.io/) [icon](https://avatars.githubusercontent.com/u/58540850)
 
-[Markdown Renderer](https://bh3gei.github.io/MarkdownRenderer/) [icon](https://github.com/Python-Markdown.png)
+[Cloudflare Worker Proxy](https://github.com/BH3GEI/CloudflareWorkerProxy) [icon](https://avatars.githubusercontent.com/u/314135)
 
 
 # Tools
 
-[Cloudflare Worker Proxy](https://github.com/BH3GEI/CloudflareWorkerProxy) [icon](https://avatars.githubusercontent.com/u/314135)
-
-[Cloudflare Proxy](https://stratoproxy.stratosphericus.workers.dev/) [icon](https://avatars.githubusercontent.com/u/314135)
+[Markdown Renderer](https://bh3gei.github.io/MarkdownRenderer/) [icon](https://github.com/Python-Markdown.png)
 
 [Multilingual Translator](https://bh3gei.github.io/polyglot-translator/) [icon](https://bh3gei.github.io/avatar.png)
 
