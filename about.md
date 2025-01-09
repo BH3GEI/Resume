@@ -1,27 +1,34 @@
-##### Technology Stack
-###### Programming Languages: Rust, Python, JavaScript, C/C++
-###### Research: WebAssembly, distributed systems, virtualization
+---
 
-##### Play: 
-###### CTF: USTC Hackergame (2023, 2024), JLU-CTF (2020)
-###### Leetcode Ranking: To Be Updated
-###### Hackathon (Merely On Wishlist) 
+## **Fun**  
+- **CTF**: USTC Hackergame (2023, 2024), JLU-CTF (2020)  
+- **Leetcode Ranking**: To Be Updated  
+- **Conferences Attended**: 2024 Comsys IPSJ, Gemma Developer Day (2024)  
+- **Hackathon**: Merely On Wishlist  
 
-##### Japanese Language Proficiency
-###### Preparing for JLPT N2
+---
 
-##### English Language Proficiency
-###### College English Test - Band 4 (CET-4): 600
-###### College English Test - Band 6 (CET-6): 590
-###### Test of English for International Communication (TOEIC): 865
+## **Japanese Language Proficiency**  
+- Preparing for JLPT N2  
 
-##### Amateur Radio Operation License
-###### Callsign: BH3GEI
-###### Class B License, China Radio Association
+---
 
+## **English Language Proficiency**  
+- **CET-4**: 600  
+- **CET-6**: 590  
+- **Test of English for International Communication (TOEIC)**: 865  
 
+---
 
-<!-- 
-###### 🎓MSc Student in CS at **Softlab, UTsukuba** | 📚RA at **CUHK** | 📜B.S. Jilin U, Appl. Phys.
-###### 🔬**Research:** Virt Tech, WASM | 🛠️**RA:** Blockchain, NFT, Smart Contract | 💻Indie Developer
- -->
+## **Amateur Radio Operation License**  
+- **Callsign**: BH3GEI  
+- **Class B License**, China Radio Association  
+
+---
+
+## **Play**  
+- Long-Range Drones/Quadcopters  
+- Hardware/Communication  
+- Amateur Astronomy and Astrophotography  
+
+---
