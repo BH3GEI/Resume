@@ -1,7 +1,7 @@
 ## **English Language Proficiency**  
 - **CET-4**: 600  
 - **CET-6**: 590  
-- **Test of English for International Communication (TOEIC)**: 865
+- **TOEIC**: 865
 
 ---
 
