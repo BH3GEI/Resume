@@ -1,7 +1,6 @@
 
 ###### 🔍 Research: Virtualization, Dist. & Vol. Computing  
-###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys.  
-###### 📚 RA at CUHK: Blockchain, Smart Contracts | 💻 Indie Dev  
+###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys. | 📚 RA at CUHK
 
 
 <!-- 
