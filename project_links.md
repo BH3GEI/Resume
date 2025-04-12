@@ -14,7 +14,10 @@
 
 [Multilingual Translator](https://bh3gei.github.io/polyglot-translator/) [icon](https://bh3gei.github.io/avatar.png)
 
-[Word2MD](https://bh3gei.github.io/Word2MD/) [icon](https://github.com/Python-Markdown.png)
+[World2MD](https://bh3gei.github.io/Word2MD/) [icon](https://github.com/Python-Markdown.png)
+
+[Era Converter](bh3gei.github.io/EraConverter/) [icon](https://ja.wiktionary.org/static/images/icons/wiktionary.svg)
+
 
 # Research
 [WASM HPC](https://1.com) [icon](https://avatars.githubusercontent.com/u/314135)
