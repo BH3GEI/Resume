@@ -16,7 +16,7 @@
 
 [World2MD](https://bh3gei.github.io/Word2MD/) [icon](https://github.com/Python-Markdown.png)
 
-[Era Converter](bh3gei.github.io/EraConverter/) [icon](https://ja.wiktionary.org/static/images/icons/wiktionary.svg)
+[Era Converter](https://bh3gei.github.io/EraConverter/) [icon](https://ja.wiktionary.org/static/images/icons/wiktionary.svg)
 
 
 # Research
