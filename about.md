@@ -12,7 +12,7 @@
 
 ## **Fun**  
 - USTC Hackergame (2024 Ranking 291/2460), (2023 Ranking 268/2381), JLU-CTF (2020 Third Prize)
-- Hack the Code Challenge 2025 (189, 6481636)
+- REPLY Hack the Code Challenge 2025 (Ranking 189/1476, Score 6481636)
 - 2025 MoFA Search AI Search Engine Competition (Second Prize)
 - Gemma Developer Day 2024
 - ComSys 2024 (IPSJ)
