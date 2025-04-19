@@ -18,6 +18,8 @@
 
 [Era Converter](https://bh3gei.github.io/EraConverter/) [icon](https://ja.wiktionary.org/static/images/icons/wiktionary.svg)
 
+[InfoDigest](https://github.com/BH3GEI/InfoDigest/tree/main) [icon](https://avatars.githubusercontent.com/u/167464495?s=48&v=4)
+
 
 # Research
 [WASM HPC](https://1.com) [icon](https://avatars.githubusercontent.com/u/314135)
