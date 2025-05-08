@@ -1,7 +1,11 @@
 
 ###### 🔍 Research: Virtualization, Dist. & Vol. Computing  
-###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys. | 📚 RA at CUHK
+###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys.
 
+<!-- 
+###### 🔍 Research: Virtualization, Dist. & Vol. Computing  
+###### 🎓 MSc in CS, UTsukuba | 📜 B.S. Jilin U, Appl. Phys. | 📚 RA at CUHK
+ -->
 
 <!-- 
 ###### 🎓MSc Student in CS at **Softlab, UTsukuba** | 📚RA at **CUHK** | 📜B.S. Jilin U, Appl. Phys.
