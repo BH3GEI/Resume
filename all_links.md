@@ -10,6 +10,8 @@
 
 [Twitter][https://x.com/BH3GEI_CN][🐦]
 
+[Feishu][https://www.feishu.cn/invitation/page/add_contact/?token=fd764679-6091-4f1a-9abc-233a0fd74b70&amp;unique_id=nHZT70IxNGRoroixFQweLA==][🫴]
+
 [WeChat][https://raw.githubusercontent.com/BH3GEI/Resume/main/WechatQR.png][📱]
 
 [Skype][https://raw.githubusercontent.com/BH3GEI/Resume/main/SkypeQR.png][☎️]
