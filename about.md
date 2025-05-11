@@ -10,7 +10,6 @@
 - USTC Hackergame, JLU-CTF
 - REPLY Hack the Code Challenge 2025
 - 2025 MoFA Search AI Search Engine Hackathon (Second Prize)
-- Gemma Developer Day 2024
 - ComSys 2024 (IPSJ)
   
 ---
