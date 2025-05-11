@@ -9,7 +9,7 @@
 
 ## Research & Professional Experience
 
-- **Research Assistant** (2024.09 - Present)  
+- **Research Assistant** (2024.09 - 2025.4)  
   The Chinese University of Hong Kong  
   - Research focus: Smart contract design for trading systems
   - Project: Blockchain-based auction systems
@@ -23,17 +23,6 @@
 - Browser-based Computing
 - Resource Management and Allocation
 - Edge Computing and Web Technologies
-- Smart Contracts for Trading Systems
-
-## Publications
-
-### Conference Papers
-1. **Towards Building Computing Clusters of Web Browsers** (2024)  
-   *COMSYS - 2024*  
-   [In Progress]
-
-2. **Secure Smart Contract Architecture for Auction Systems** (2024)  
-   *In Preparation*  
 
 ## Current Research
 
@@ -45,16 +34,6 @@
   - Web-native distributed computing protocols
   - Performance optimization for browser-based computing
   - Cross-browser communication and synchronization
-
-### Smart Contract Design for Bidding
-- Research Direction: Secure and Efficient Contracts
-- Focus Areas:
-  - Auction mechanism design
-
-## Professional Affiliations
-- Member, SoftLab Research Group, University of Tsukuba
-- Student Member, COMSYS Research Community
-- Research Assistant, CUHK
 
 ---
 *Last updated: November 2024*
